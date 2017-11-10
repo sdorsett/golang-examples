@@ -19,7 +19,7 @@ func main() {
     spew.Dump(pt)
 }
 ```
-# output
+## output
 ```
 63-158-0-142:go-learning standorsett$ go run structs.go
 {10 20}
