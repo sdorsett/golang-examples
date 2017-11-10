@@ -1,4 +1,4 @@
-#structs.go
+# creating and assigning values to a struct 'on the fly'
 ```
 package main
 
@@ -18,7 +18,7 @@ func main() {
     spew.Dump(pt)
 }
 ```
-#output
+# output
 ```
 63-158-0-142:go-learning standorsett$ go run structs.go
 {10 20}
