@@ -1,4 +1,4 @@
-# pointers.go
+## pointers.go
 ```
 package main
 
@@ -14,7 +14,7 @@ func main() {
 }
 ```
 
-# Output
+## Output
 ```
 63-158-0-142:pointers standorsett$ go run pointers.go
 0xc42000e260
