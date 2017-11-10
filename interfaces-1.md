@@ -1,4 +1,4 @@
-# Interfaces
+# Interfaces - using the interface type and examples of switching based on assigned value type
 ## interfaces.go
 ```
 package main
