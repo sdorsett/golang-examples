@@ -27,6 +27,7 @@ coverage: 50.0% of statements
 ok      github.com/sdorsett/helloworld    0.005s
 ```
 # add more tests:
+```
 Stans-MacBook-Pro:helloworld standorsett$ cat helloworld_test.go
 package helloworld
 
